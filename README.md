@@ -1,4 +1,4 @@
-# Test majordhom — Formulaire de contact agence
+# Formulaire de contact agence
 
 Intégration fidèle à la maquette d'un formulaire de contact pour une agence immobilière, avec enregistrement des données en base de données.
 
