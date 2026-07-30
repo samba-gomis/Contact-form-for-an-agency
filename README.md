@@ -24,8 +24,8 @@ Intégration fidèle à la maquette d'un formulaire de contact pour une agence i
 ## Lancer le projet
 
 ```bash
-git clone https://github.com/samba-gomis/test-majordhom.git
-cd test-majordhom
+git clone https://github.com/samba-gomis/Contact-form-for-an-agency.git
+cd Contact-form-for-an-agency
 npm install
 cp .env.example .env
 
